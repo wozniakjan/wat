@@ -20,7 +20,7 @@ public class MainClass {
          *   calling method equal can be costly
          * - why there are Integers then you ask? you are not allowed to use
          *   int in containers (java generics) so there you go
-         **/
+         **/ 
         System.out.println("\nInteger and int, funky comparison");
         System.out.println("=================================");
         int a = 100, b = 100;
